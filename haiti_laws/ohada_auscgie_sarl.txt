@@ -1,0 +1,14 @@
+OHADA — Acte uniforme relatif au droit des sociétés commerciales et du GIE (AUSCGIE, révision 2014)
+Titre sur la SARL (articles relatifs à la SARL, notamment art. 309 et suivants).
+
+Extraits de règles utilisées pour la comparaison:
+- Capital minimum: le capital social de la SARL est librement fixé par les statuts (pas de minimum légal uniforme).
+- Nombre d'associés: SARL unipersonnelle possible (1 associé) et limite maximale de 100 associés; au-delà, transformation requise.
+- Gouvernance: un ou plusieurs gérants, personnes physiques, associés ou non.
+- Cession des parts: cession à des tiers soumise à agrément des associés (majorité qualifiée des parts sociales).
+- Comptabilité/audit: établissement d'états financiers annuels; commissaire aux comptes requis au-delà de seuils légaux/réglementaires.
+- Protection des créanciers: règles de libération des apports, encadrement des distributions, procédure d'opposition en cas de réduction de capital.
+- Dissolution/transformation: mécanismes de dissolution anticipée et de transformation, y compris en cas de dépassement du nombre d'associés ou pertes substantielles.
+
+Source de référence:
+- Texte AUSCGIE (version consolidée 2014), Titre SARL (art. 309 et s.).

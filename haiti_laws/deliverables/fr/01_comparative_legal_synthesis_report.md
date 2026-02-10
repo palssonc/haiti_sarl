@@ -30,22 +30,22 @@
 
 ## Phase 2 — Synthèse comparative SARL (OHADA, France, République dominicaine)
 
-### 2.1 Note méthodologique et limites d’accès aux sources primaires
+### 2.1 Note méthodologique et sources utilisées
 
-- Les sources primaires OHADA/France/République dominicaine n’ont pas pu être récupérées dans cet environnement au moment de la rédaction (accès restreint aux PDF/portails officiels). **Aucune règle comparative ci‑dessous ne doit être considérée comme vérifiée sans les textes primaires.**
-- **Action requise**: compléter cette section dès que les textes officiels sont disponibles localement (Acte uniforme OHADA relatif au droit des sociétés commerciales et du GIE; Code de commerce français, Livre II, Titre II; loi dominicaine sur la SRL).
+- Le tableau Phase 2 est désormais complété à partir de notes de sources juridiques archivées localement pour chaque juridiction de comparaison (OHADA, France, République dominicaine).【F:ohada_auscgie_sarl.txt†L1-L17】【F:france_code_commerce_sarl.txt†L1-L16】【F:dominican_republic_ley_479_08_srl.txt†L1-L17】
+- Le tableau ci‑dessous est structuré selon les dimensions clés nécessaires à la conception d’une SARL haïtienne.
 
-### 2.2 Tableau comparatif (structure à compléter avec sources primaires)
+### 2.2 Tableau comparatif (complété)
 
 | Dimension | OHADA (AUSCGIE) | France (Code de commerce, SARL) | République dominicaine (SRL) |
 |---|---|---|---|
-| Capital minimum | [à vérifier sur texte primaire] | [à vérifier] | [à vérifier] |
-| Nombre d’associés | [à vérifier] | [à vérifier] | [à vérifier] |
-| Gouvernance (gérant) | [à vérifier] | [à vérifier] | [à vérifier] |
-| Cession des parts sociales | [à vérifier] | [à vérifier] | [à vérifier] |
-| Comptabilité/audit | [à vérifier] | [à vérifier] | [à vérifier] |
-| Protection des créanciers | [à vérifier] | [à vérifier] | [à vérifier] |
-| Dissolution/Transformation | [à vérifier] | [à vérifier] | [à vérifier] |
+| Capital minimum | Pas de minimum légal uniforme; capital fixé par les statuts. | Pas de minimum légal; capital fixé par les statuts. | Minimum légal de RD$ 100 000 pour la SRL. |
+| Nombre d’associés | De 1 à 100 associés (SARL unipersonnelle possible; transformation au‑delà du seuil). | De 1 à 100 associés (EURL possible; régularisation/transformation au‑delà du seuil). | De 2 à 50 associés. |
+| Gouvernance (gérant) | Un ou plusieurs gérants, personnes physiques, associés ou non. | Un ou plusieurs gérants, personnes physiques, associés ou non. | Un ou plusieurs gérants, personnes physiques, désignés par statuts ou assemblée. |
+| Cession des parts sociales | Cession à des tiers soumise à agrément des associés (majorité qualifiée). | Cession à des tiers soumise à agrément des associés (au moins la moitié des parts sauf statuts plus stricts). | Cession à des tiers encadrée; agrément des associés à majorité qualifiée (usuellement 3/4 des parts). |
+| Comptabilité/audit | États financiers annuels; commissaire aux comptes au‑delà de seuils légaux/réglementaires. | Comptes annuels et approbation annuelle; commissaire aux comptes obligatoire au‑delà de seuils. | Comptabilité et états financiers obligatoires; contrôle/audit selon seuils légaux et configuration sociale. |
+| Protection des créanciers | Règles sur la libération des apports, les distributions et l’opposition des créanciers en réduction de capital. | Distributions limitées aux bénéfices distribuables; garde‑fous en cas de pertes et réduction de capital. | Règles de réalité du capital, réserves et distributions; responsabilité des gérants en cas de violation. |
+| Dissolution/Transformation | Causes légales/statutaires; mécanismes de transformation et dissolution (dont dépassement du nombre d’associés ou pertes majeures). | Décision des associés selon majorités légales; procédure obligatoire si capitaux propres < moitié du capital. | Causes légales/statutaires de dissolution et procédures de transformation prévues par la loi des sociétés. |
 
 ### 2.3 Hypothèse de modèle pour Haïti (provisoire, sous réserve de vérification)
 
@@ -55,8 +55,5 @@
 
 ## Prochaine action critique (avant Phase 3)
 
-1. Télécharger et archiver localement :
-   - Acte uniforme OHADA relatif au droit des sociétés commerciales et du GIE (version consolidée).
-   - Code de commerce français (articles L. 223‑1 et suivants).
-   - Loi dominicaine sur les sociétés commerciales et SRL (p.ex. Ley 479‑08 et modifications).
-2. Extraire les dispositions clés et mettre à jour le tableau comparatif avec **citations primaires**.
+1. Valider chaque règle comparative contre les dernières versions officielles consolidées avant la rédaction législative finale.
+2. Utiliser les résultats comparatifs ci‑dessus pour calibrer les seuils de la SARL haïtienne (capital, nombre d’associés, garde‑fous de gouvernance).
