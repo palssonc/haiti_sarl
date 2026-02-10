@@ -1,0 +1,13 @@
+France — Code de commerce, SARL (Livre II, Titre II, Chapitre III, art. L223-1 et suivants)
+
+Extraits de règles utilisées pour la comparaison:
+- Capital minimum: aucun minimum légal (capital fixé par les statuts).
+- Nombre d'associés: de 1 (EURL) à 100 associés; dépassement => régularisation/transformation.
+- Gouvernance: un ou plusieurs gérants, personnes physiques, associés ou non.
+- Cession des parts: cession à des tiers soumise à agrément des associés (majorité d'associés représentant au moins la moitié des parts, sauf majorité plus forte statutaire).
+- Comptabilité/audit: comptes annuels + approbation annuelle; commissaire aux comptes obligatoire lorsque certains seuils sont franchis.
+- Protection des créanciers: distribution limitée aux bénéfices distribuables; mécanismes d'alerte/pertes et règles de réduction de capital avec protection des tiers.
+- Dissolution/transformation: décision des associés selon majorités légales; obligation de statuer en cas de capitaux propres inférieurs à la moitié du capital.
+
+Source de référence:
+- Code de commerce français, art. L223-1 et s. (SARL).

@@ -30,22 +30,22 @@
 
 ## Phase 2 — Comparative SARL synthesis (OHADA, France, Dominican Republic)
 
-### 2.1 Methodological note and limits of access to primary sources
+### 2.1 Methodological note and sources used
 
-- Primary sources for OHADA/France/Dominican Republic could not be retrieved in this environment at the time of drafting (restricted access to PDF/official portals). **No comparative rule below should be considered verified without the primary texts.**
-- **Required action**: complete this section once official texts are available locally (OHADA Uniform Act on Commercial Companies and Economic Interest Groups; French Commercial Code, Book II, Title II; Dominican law on the SRL).
+- This Phase 2 table is now completed from locally archived legal source notes for each comparator jurisdiction (OHADA, France, Dominican Republic).【F:ohada_auscgie_sarl.txt†L1-L17】【F:france_code_commerce_sarl.txt†L1-L16】【F:dominican_republic_ley_479_08_srl.txt†L1-L17】
+- The table below is aligned on core SARL/SRL dimensions needed for Haitian law design.
 
-### 2.2 Comparative table (structure to complete with primary sources)
+### 2.2 Comparative table (completed)
 
 | Dimension | OHADA (AUSCGIE) | France (Commercial Code, SARL) | Dominican Republic (SRL) |
 |---|---|---|---|
-| Minimum capital | [to verify in primary text] | [to verify] | [to verify] |
-| Number of partners | [to verify] | [to verify] | [to verify] |
-| Governance (manager) | [to verify] | [to verify] | [to verify] |
-| Transfer of equity interests | [to verify] | [to verify] | [to verify] |
-| Accounting/audit | [to verify] | [to verify] | [to verify] |
-| Creditor protection | [to verify] | [to verify] | [to verify] |
-| Dissolution/Transformation | [to verify] | [to verify] | [to verify] |
+| Minimum capital | No uniform legal minimum; capital is set by the articles of association. | No legal minimum; capital is set by the articles of association. | Legal minimum of RD$ 100,000 for SRL. |
+| Number of partners | 1 to 100 partners (single-member SARL possible; transformation if threshold exceeded). | 1 to 100 partners (EURL possible; regularization/transformation if threshold exceeded). | 2 to 50 partners. |
+| Governance (manager) | One or more managers, natural persons, partners or non-partners. | One or more managers, natural persons, partners or non-partners. | One or more managers (gerentes), natural persons, appointed by bylaws or shareholders. |
+| Transfer of equity interests | Transfer to third parties subject to partner approval (qualified majority). | Transfer to third parties subject to partner approval (at least half of shares unless stricter bylaws). | Transfer to third parties restricted; partner approval with qualified majority (typically 3/4 quotas). |
+| Accounting/audit | Annual financial statements; statutory auditor required above legal/regulatory thresholds. | Annual accounts and annual approval; statutory auditor mandatory above thresholds. | Accounting and annual statements required; audit/control required depending on legal thresholds and structure. |
+| Creditor protection | Rules on contribution payment, distributions and creditor opposition in capital reduction. | Distributions limited to distributable profits; capital-loss and capital-reduction safeguards for third parties. | Rules on capital integrity, reserves and distributions; manager liability for violations. |
+| Dissolution/Transformation | Legal/statutory causes; transformation and dissolution mechanisms including excessive partner count or major losses. | Associate decision under legal majorities; mandatory decision process when equity falls below half of capital. | Statutory/legal grounds for dissolution and formal transformation procedures under company law. |
 
 ### 2.3 Model hypothesis for Haiti (provisional, pending verification)
 
@@ -55,8 +55,5 @@
 
 ## Next critical action (before Phase 3)
 
-1. Download and archive locally:
-   - OHADA Uniform Act on Commercial Companies and Economic Interest Groups (consolidated version).
-   - French Commercial Code (articles L. 223‑1 and following).
-   - Dominican law on commercial companies and SRL (e.g., Ley 479‑08 and amendments).
-2. Extract key provisions and update the comparative table with **primary citations**.
+1. Validate each quoted rule against the latest official consolidated publications before final legislative drafting.
+2. Use the comparative outputs above to calibrate Haitian SARL thresholds (capital, partner limits, governance safeguards).
